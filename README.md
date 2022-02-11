@@ -47,7 +47,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Estructura de páginas web
 	- Estructura y limpieza de código
 
-2. Primer elemento de la lista
+2. [HTML](https://github.com/romarpla/HTML-FrontEnd)
     - ¿Qué es HTML?
 	- Estructura de archivo HTML
 	- Sintaxis de etiquetas
