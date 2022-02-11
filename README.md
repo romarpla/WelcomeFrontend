@@ -38,7 +38,7 @@ Pero basta de hablar de mi y empecemos con el curso...
 
 El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el curso
 
-1. Programación FrontEnd
+1. [Programación FrontEnd](https://github.com/romarpla/WhatIsFrontEnd)
     - ¿Qué es la programación FRONTEND?
 	- ¿Para que sirve la programación FRONTEND?
 	- En qué consiste la programación FRONTEND
@@ -140,4 +140,6 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Mantenimiento de tu aplicación
 
 **Las diferentes ligas se irán desbloqueando durante el curso conforme pasen las semanas para que no se me adelanten**
+
+***Vámonos hasta el espacio y más allá Explorers!***
 
